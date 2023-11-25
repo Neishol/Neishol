@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there! 👋
 
-I'm [Your Name], a passionate fullstack developer with a keen interest in crafting robust web solutions. My expertise lies in creating dynamic and user-friendly applications, from frontend design using HTML, CSS, and JavaScript to backend implementation with Node.js and Express. 
+I'm Jose, a passionate fullstack developer with a keen interest in crafting robust web solutions. My expertise lies in creating dynamic and user-friendly applications, from frontend design using HTML, CSS, and JavaScript to backend implementation with Node.js and Express. 
 
 ### What I Bring to the Table:
 
@@ -28,4 +28,4 @@ I'm [Your Name], a passionate fullstack developer with a keen interest in crafti
 
 📫 Feel free to reach out for collaboration opportunities or to discuss exciting projects. I'm always eager to contribute and innovate!
 
-Connect with me on [LinkedIn](Your LinkedIn Profile) | [Portfolio](Your Portfolio URL)
+Connect with me on [LinkedIn][https://www.linkedin.com/in/jose-oswaldo-aguero/] <!--| [Portfolio](Your Portfolio URL)-->
